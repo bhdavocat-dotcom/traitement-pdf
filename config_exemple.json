@@ -1,0 +1,20 @@
+{
+    "titre_bordereau": "BORDEREAU DE COMMUNICATION DES PIÈCES",
+    "pieces": [
+        {
+            "titre": "Contrat principal",
+            "page_debut": 1,
+            "page_fin": 3
+        },
+        {
+            "titre": "Annexe 1 - Conditions générales",
+            "page_debut": 4,
+            "page_fin": 6
+        },
+        {
+            "titre": "Annexe 2 - Tarifs",
+            "page_debut": 7,
+            "page_fin": 8
+        }
+    ]
+}
